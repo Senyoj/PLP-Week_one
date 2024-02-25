@@ -55,7 +55,6 @@ void main() {
     'Peter',
     19,
   ];
-
   // runes
   String runesString = "Runes in Dart: \u{1F630} \u{1F64B} \u{1F780}";
 
@@ -67,7 +66,7 @@ void main() {
 
   int summ = num5 + num6;
   int diff = num5 - num6;
-  double div = num5/num6;
+  double div = num5 / num6;
 
   print("sum is $summ ");
   print("difference is $diff  ");
