@@ -1,7 +1,7 @@
 void main() {
 // Declaring Variables
   int num1 = 100; // without decimal point.
-  double num2 = 130.2; // with decimal point.
+  double num2 = 130.2;
   num num3 = 50;
   num num4 = 50.4;
 
@@ -57,7 +57,7 @@ void main() {
   ];
 
   // runes
-  String runesString = "Runes in Dart: \u{1F630} \u{1F64B} \u{1F680}";
+  String runesString = "Runes in Dart: \u{1F630} \u{1F64B} \u{1F780}";
 
   print("dart has $runesString");
 
